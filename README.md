@@ -1,5 +1,3 @@
-# graduation-card
-linked with me
 <!DOCTYPE html>
 <html lang="en">
 <head>
